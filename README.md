@@ -66,3 +66,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kutayturhan&&style=flat-square" align="center" />
 </div>  
+
+
+## 🐍 &nbsp;Snake eating my contribution graph
+
+![Generate Snake](https://github.com/kutayturhan/kutayturhan/blob/output/github-contribution-grid-snake.gif)
