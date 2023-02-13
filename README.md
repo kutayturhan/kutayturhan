@@ -6,13 +6,13 @@
 ### <div align="center">👾 Kutay Turhan | Tech-Related Unit 🚀</div>  
   
 
-- 🖥️ I’m currently working as a Software QA Engineer  
+- 🖥️ I’m currently working as a Software QA Engineer
   
 
-- 🏫 Continuously learning and expanding my knowledge in the field of Web Development.  
+- 🏫 Continuously learning and expanding my knowledge in the field of Web Development
   
 
-- ⚡ Fun fact: In my free time, I moonlight as a DJ and producer, creating beats that get people on the dance floor.  
+- ⚡ Fun fact: In my free time, I moonlight as a DJ and producer, creating beats that get people on the dance floor
   
 
 <br/>  
