@@ -1,3 +1,16 @@
+  <style>
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container > div {
+  flex: 1;
+  margin: 10px;
+}
+  </style>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/109773810/226185250-8fac01c1-8b37-4747-81d1-99cf8d9c6515.jpeg" align="center" style="width: 100%"/>
 </div>
@@ -24,10 +37,14 @@ In my current role, I am responsible for developing and executing effective test
 - Experience working in <strong>Agile/Scrum</strong> environments
 - Strong <strong>Teamwork</strong> and <strong>Collaboration</strong> skills
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kutayturhan&show_icons=true&count_private=true&hide_border=true" align="center" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutayturhan&hide_border=true&layout=compact" align="center" width="50%"/></div>
-
-<br/>
+<div class="container">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=kutayturhan&show_icons=true&count_private=true&hide_border=true" align="center" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutayturhan&hide_border=true&layout=compact" align="center" />
+  </div>
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kutayturhan&&style=flat-square" align="center" />
