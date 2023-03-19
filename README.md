@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%"/>
 </div>
 
-### <div align="center" style="font-size: 36px;">Kutay Turhan | Software Test Engineer</div>
+### <div align="center" style="font-size: 30px;">Kutay Turhan | Software Test Engineer</div>
 
 As a Software QA Engineer with over 1 year of hands-on experience, I specialize in manual and automated testing of web and mobile applications. I have a solid understanding of the software development life cycle (SDLC) and have experience analyzing business requirement documents, functional requirement specifications, and use cases to create test plans and test cases for manual testing.
 
@@ -22,4 +22,4 @@ In my current role, I am responsible for developing and executing effective test
 - Extensive experience with <strong>Test Automation</strong> and <strong>Manual Testing</strong>
 - Familiarity with the <strong>Software Development Life Cycle (SDLC)</strong>
 - Experience working in <strong>Agile/Scrum</strong> environments
-- Strong <strong>Teamwork</strong>  and <strong>Collaboration</strong> skills
+- Strong <strong>Teamwork</strong> and <strong>Collaboration</strong> skills
