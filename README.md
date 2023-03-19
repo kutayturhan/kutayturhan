@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%"/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 85%"/>
 </div>
 
 ### <div align="center" style="font-size: 36px;">Kutay Turhan | Software Test Engineer</div>
@@ -10,17 +10,16 @@ My skills include Java, JavaScript, HTML, CSS, Git and GitHub, Jira, Selenium, A
 
 In my current role, I am responsible for developing and executing effective test strategies and plans to ensure the quality and functionality of web and mobile applications. I am dedicated to delivering high-quality products and am constantly seeking to improve my skills and knowledge in the field.
 
-- Strong knowledge of Java
-- Proficient in HTML and CSS
-- Experience using Git and GitHub for version control
-- Familiarity with Jira for project management
-- Experience with Selenium and Appium for automated testing
-- Knowledge of JUnit and TestNG for unit and functional testing
-- Experience with Maven for build management
-- Familiarity with Cucumber and Gherkin for behavior-driven development
-- Experience with Jenkins for continuous integration
-- Proficiency in IntelliJ for code development
-- Extensive experience with test automation and manual testing
-- Familiarity with the software development life cycle (SDLC)
-- Experience working in agile/scrum environments
-- Strong teamwork and collaboration skills
+- Strong knowledge of <strong>Java</strong>
+- Proficient in <strong>HTML</strong> and <strong>CSS</strong>
+- Experience using <strong>Git</strong> and <strong>GitHub</strong> for version control
+- Familiarity with <strong>Jira</strong> for project management
+- Experience with <strong>Selenium</strong> and <strong>Appium</strong> for automated testing
+- Knowledge of <strong>JUnit</strong> and <strong>TestNG</strong> for unit and functional testing
+- Experience with <strong>Maven</strong> for build management
+- Familiarity with <strong>Cucumber</strong> and <strong>Gherkin</strong> for behavior-driven development
+- Experience with <strong>Jenkins</strong> for continuous integration
+- Extensive experience with <strong>Test Automation</strong> and <strong>Manual Testing</strong>
+- Familiarity with the <strong>Software Development Life Cycle (SDLC)</strong>
+- Experience working in <strong>Agile/Scrum</strong> environments
+- Strong <strong>Teamwork</strong>  and <strong>Collaboration</strong> skills
