@@ -25,7 +25,7 @@ In my current role, I am responsible for developing and executing effective test
 - Strong <strong>Teamwork</strong> and <strong>Collaboration</strong> skills
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kutayturhan&show_icons=true&count_private=true&hide_border=true" align="center" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutayturhan&hide_border=true&layout=compact" align="center" width=""/></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutayturhan&hide_border=true&layout=compact" align="center" width="50%"/></div>
 
 <br/>
 
