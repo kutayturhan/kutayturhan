@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%"/>
+<img src="https://user-images.githubusercontent.com/109773810/226185250-8fac01c1-8b37-4747-81d1-99cf8d9c6515.jpeg" align="center" style="width: 100%"/>
 </div>
 
 ### <div align="center" style="font-size: 30px;">Kutay Turhan | Software Test Engineer</div>
