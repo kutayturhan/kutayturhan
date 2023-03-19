@@ -24,14 +24,13 @@ In my current role, I am responsible for developing and executing effective test
 - Experience working in <strong>Agile/Scrum</strong> environments
 - Strong <strong>Teamwork</strong> and <strong>Collaboration</strong> skills
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kutayturhan&show_icons=true&count_private=true&hide_border=true" align="center" />
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutayturhan&hide_border=true&layout=compact" align="center" />
-  </div>
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kutayturhan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutayturhan&hide_border=true&layout=compact" align="center" /></div>
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kutayturhan&&style=flat-square" align="center" />
