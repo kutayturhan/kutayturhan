@@ -6,7 +6,7 @@
 
 As a Software QA Engineer with over 1 year of hands-on experience, I specialize in manual and automated testing of web and mobile applications. I have a solid understanding of the software development life cycle (SDLC) and have experience analyzing business requirement documents, functional requirement specifications, and use cases to create test plans and test cases for manual testing.
 
-My skills include Java, JavaScript, HTML, CSS, Git and GitHub, Jira, Selenium, Appium, JUnit, TestNG, Maven, Cucumber, Gherkin, Jenkins, IntelliJ, and knowledge of both test automation and manual testing. I am familiar with agile/scrum methodologies and thrive in teamwork environments.
+My skills include Java, HTML, CSS, Git and GitHub, Jira, Selenium, Appium, JUnit, TestNG, Maven, Cucumber, Gherkin, Jenkins, IntelliJ, and knowledge of both test automation and manual testing. I am familiar with agile/scrum methodologies and thrive in teamwork environments.
 
 In my current role, I am responsible for developing and executing effective test strategies and plans to ensure the quality and functionality of web and mobile applications. I am dedicated to delivering high-quality products and am constantly seeking to improve my skills and knowledge in the field.
 
