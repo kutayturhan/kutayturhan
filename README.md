@@ -23,3 +23,12 @@ In my current role, I am responsible for developing and executing effective test
 - Familiarity with the <strong>Software Development Life Cycle (SDLC)</strong>
 - Experience working in <strong>Agile/Scrum</strong> environments
 - Strong <strong>Teamwork</strong> and <strong>Collaboration</strong> skills
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kutayturhan&show_icons=true&count_private=true&hide_border=true" align="center" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutayturhan&hide_border=true&layout=compact" align="center" width=""/></div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kutayturhan&&style=flat-square" align="center" />
+</div>
